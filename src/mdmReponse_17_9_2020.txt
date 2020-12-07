@@ -1,0 +1,509 @@
+{
+    "link": [],
+    "firstRecord": 1,
+    "recordCount": 1,
+    "pageSize": 10,
+    "searchToken": "SVR1.ZERO",
+    "facet": [],
+    "item": [
+        {
+            "ExEmployeeOutbound": {
+                "link": [
+                    {
+                        "href": "/request/hm_icons/TCR_HMICONS/Generic Person circle 16px.png?ors={ors}",
+                        "rel": "icon"
+                    }
+                ],
+                "rowidObject": "40002         ",
+                "label": "HENERY SAMUEL",
+                "ExEmployeeId": "3456",
+                "ExEmployeeName": "HENERY SAMUEL",
+                "ExEmploymentStatus": {
+                    "rowidObject": "1             ",
+                    "label": "Lookup Employment Status",
+                    "emplymntStsDesc": "Active",
+                    "emplymntStsCd": "ACT",
+                    "ExEmplymntStsName": "Active"
+                },
+                "ExHireDt": "2020-09-07",
+                "ExSeniorityDt": "2020-09-07",
+                "ExEndEmploymentDt": "2020-09-07",
+                "ExEmploymentTyp": {
+                    "rowidObject": "4             ",
+                    "label": "Lookup Employment Type",
+                    "emplymntTypCd": "REG",
+                    "ExEmploymentTypeDesc": "A person who works a regular schedule, year round",
+                    "ExEmploymentTypeName": "Regular"
+                },
+                "ExLeaderFlg": {
+                    "rowidObject": "1             ",
+                    "label": "Lookup Leader Flag",
+                    "ExLeaderFlagCd": "Y",
+                    "ExLeaderFlagName": "Y",
+                    "ExLeaderFlagDesc": "Y"
+                },
+                "ExPaidCountryNm": "Canada",
+                "ExworkShift": {
+                    "rowidObject": "1             ",
+                    "label": "Lookup Work Shift",
+                    "ExWorkShiftName": "EST",
+                    "ExWorkShiftCd": "EST"
+                },
+                "ExWorkScheduleType": {
+                    "rowidObject": "1             ",
+                    "label": "Lookup Work Schedule Type",
+                    "ExWorkScheduleTypDesc": "Standard Hours - 40",
+                    "ExWorkScheduleTypCd": "Standard Hours - 40",
+                    "ExWorkScheduleTypName": "Standard Hours - 40"
+                },
+                "ExCompanyCd": {
+                    "rowidObject": "1             ",
+                    "label": "Lookup Company Code",
+                    "ExCompanyDesc": "Suncor Energy Inc.",
+                    "ExCompanyCd": "Suncor Energy Inc.",
+                    "ExCompanyName": "Suncor Energy Inc."
+                },
+                "ExWorkerTimeType": {
+                    "rowidObject": "1             ",
+                    "label": "Lookup Wrkr Time Typ",
+                    "ExWrkrTimeTypName": "Regular",
+                    "ExWrkrTimeTypCd": "Regular"
+                },
+                "ExAccessCardId": "7834",
+                "ExContractorVendorCd": "abc",
+                "ExContractorVendorNm": "abc",
+                "ExServiceMasterId": "rty",
+                "ExServiceMasterDesc": "rty",
+                "ExWorkCenter": "Test",
+                "ExSiteBan": "tyu",
+                "ExPayRateType": {
+                    "rowidObject": "1             ",
+                    "label": "Lookup Pay Rate Type",
+                    "ExPayRateTypName": "1926/hr",
+                    "ExPayRateTypCd": "1926/hr"
+                },
+                "ExWorkHourProfile": {
+                    "rowidObject": "1             ",
+                    "label": "Lookup Work Hours Profile",
+                    "ExWorkHoursProfileCd": "Regular",
+                    "ExWorkHoursProfileName": "Regular"
+                },
+                "ExDefaultWeeklyHours": {
+                    "rowidObject": "1             ",
+                    "label": "Lookup Default Weekly Hours",
+                    "ExDefaultWeeklyHoursCd": "Daily",
+                    "ExDefaultWeeklyHoursName": "Daily"
+                },
+                "ExScheduledWeeklyHours": {
+                    "rowidObject": "1             ",
+                    "label": "Lookup Scheduled Weekly Hours",
+                    "ExScheduledWeeklyHoursName": "Daily",
+                    "ExScheduledWeeklyHoursCd": "Daily"
+                },
+                "ExCountryName": {
+                    "rowidObject": "1             ",
+                    "label": "Lookup Country",
+                    "cntryCd": "CAN",
+                    "cntryDesc": "Canada",
+                    "ExCntryName": "Canada"
+                },
+                "ExPhoneNumber": "(604) 555-5555",
+                "ExOriginalHireDate": "2020-09-03",
+                "ExPositionId": "677",
+                "ExFirstName": "HENERY",
+                "ExMiddleName": "A",
+                "ExLastName": "SAMUEL",
+                "ExPartyIdentificationAccessId_1_rowidObject": "20006         ",
+                "ExPartyLocation_1_ExLocation_ExAddress_rowidObject": "3             ",
+                "ExPartyEmploymentPosition_1_ExPosition_rowidObject": "1             ",
+                "ExPartyLocation_1_rowidObject": "7             ",
+                "ExPartyIdentification_1_rowidObject": "2             ",
+                "ExPartyEmployment_1_rowidObject": "1             ",
+                "ExPartyEmploymentPosition_1_rowidObject": "1             ",
+                "ExPartyLocation_1_ExLocation_rowidObject": "1             ",
+                "ExPartyPhoneCommunication_1_rowidObject": "1             ",
+                "ExAlternateName": {
+                    "link": [],
+                    "firstRecord": 1,
+                    "pageSize": 10,
+                    "searchToken": "multi",
+                    "item": [
+                        {
+                            "rowidObject": "20002         ",
+                            "label": "Alternate Name",
+                            "ExNameTyp": {
+                                "rowidObject": "2             ",
+                                "label": "Lookup Alternate Name Type",
+                                "nmDesc": "Preferred Name of the Worker",
+                                "nmTyp": "PREF_NAME",
+                                "ExNmTypNm": "Preferred Name"
+                            },
+                            "ExNameValue": "ROB WILLIAM"
+                        },
+                        {
+                            "rowidObject": "60002         ",
+                            "label": "Alternate Name",
+                            "ExNameTyp": {
+                                "rowidObject": "1             ",
+                                "label": "Lookup Alternate Name Type",
+                                "nmDesc": "Official Name of the Worker",
+                                "nmTyp": "OFF_NAME",
+                                "ExNmTypNm": "Official Name"
+                            },
+                            "ExNameValue": "My Test Name"
+                        }
+                    ]
+                },
+                "ExPhone": {
+                    "link": [],
+                    "firstRecord": 1,
+                    "pageSize": 1,
+                    "searchToken": "multi",
+                    "item": [
+                        {
+                            "rowidObject": "1             ",
+                            "label": "Phone Communication",
+                            "ExPhoneTyp": {
+                                "rowidObject": "2             ",
+                                "label": "Lookup Phone Type",
+                                "phnTyp": "WORK_CELL",
+                                "phnTypDesc": "Work Cellphone Number",
+                                "ExPhnTypName": "Work Cellphone"
+                            },
+                            "ExInternationalPhnCd": "1",
+                            "ExPhnNum": "(604) 555-5555"
+                        }
+                    ]
+                },
+                "ExEmail": {
+                    "link": [],
+                    "firstRecord": 1,
+                    "pageSize": 10,
+                    "searchToken": "multi",
+                    "item": [
+                        {
+                            "rowidObject": "1             ",
+                            "label": "Electronic Address",
+                            "ExEmailTyp": {
+                                "rowidObject": "1             ",
+                                "label": "Lookup Electronic Address Type",
+                                "addrTypDesc": "Work Email address of the Worker",
+                                "addrTyp": "WORK_EMAIL",
+                                "ExAddrName": "Work Email"
+                            },
+                            "ExEmailAddr": "rwilliam@suncor.com"
+                        },
+                        {
+                            "rowidObject": "20003         ",
+                            "label": "Electronic Address",
+                            "ExEmailTyp": {
+                                "rowidObject": "1             ",
+                                "label": "Lookup Electronic Address Type",
+                                "addrTypDesc": "Work Email address of the Worker",
+                                "addrTyp": "WORK_EMAIL",
+                                "ExAddrName": "Work Email"
+                            },
+                            "ExEmailAddr": "ahuria@suncor.com"
+                        }
+                    ]
+                },
+                "ExAddress": {
+                    "link": [],
+                    "firstRecord": 1,
+                    "pageSize": 10,
+                    "searchToken": "multi",
+                    "item": [
+                        {
+                            "rowidObject": "1             ",
+                            "label": "Postal Address",
+                            "ExAddrTyp": {
+                                "rowidObject": "1             ",
+                                "label": "Lookup Postal Address Type",
+                                "addrTypDesc": "Work Address of the Worker",
+                                "addrTyp": "WORK_ADDR",
+                                "ExAddrTypName": "Work Address"
+                            },
+                            "ExAddressLine1": "944  Kinchant Street",
+                            "ExCity": "Chilliwack",
+                            "ExState": {
+                                "rowidObject": "5             ",
+                                "label": "Lookup Province",
+                                "ExProvince": "MB",
+                                "ExProvinceDesc": "Manitoba",
+                                "ExProvinceName": "Manitoba"
+                            },
+                            "ExPostalCd": "87868",
+                            "ExCountry": {
+                                "rowidObject": "1             ",
+                                "label": "Lookup Country",
+                                "cntryCd": "CAN",
+                                "cntryDesc": "Canada",
+                                "ExCntryName": "Canada"
+                            },
+                            "ExPostalAddress_rowidObject": "1             "
+                        }
+                    ]
+                },
+                "ExSupervisorDetails": {
+                    "link": [],
+                    "firstRecord": 1,
+                    "pageSize": 10,
+                    "searchToken": "multi",
+                    "item": [
+                        {
+                            "rowidObject": "2             ",
+                            "label": "Worker Supervisor",
+                            "ExSupervisorEmployeeId": "568282552",
+                            "ExSupervisorName": "SMITH K BROWN",
+                            "ExSupervisorNm_ExWorker_1_rowidObject": "20002         ",
+                            "ExSupervisorNm_rowidObject": "2             "
+                        }
+                    ]
+                },
+                "ExLocation": {
+                    "link": [],
+                    "firstRecord": 1,
+                    "pageSize": 1,
+                    "searchToken": "multi",
+                    "item": [
+                        {
+                            "rowidObject": "7             ",
+                            "label": "Party Location",
+                            "ExLocationNm": "Commerce City",
+                            "ExLocationTyp": {
+                                "rowidObject": "1             ",
+                                "label": "Lookup Loc Typ",
+                                "ExLocTypNm": "MAIN OFFICE",
+                                "ExLocTypCd": "MAIN OFFICE",
+                                "ExLocTypDesc": "MAIN OFFICE"
+                            },
+                            "ExLocationSts": "Active",
+                            "ExTimeZone": "MST",
+                            "ExLocale": "En",
+                            "ExAvialabilityDt": "2020-08-05T04:23:28Z",
+                            "ExAddressLine1": "100 King George Hwy",
+                            "ExCity": "Surrey",
+                            "ExState": {
+                                "rowidObject": "4             ",
+                                "label": "Lookup Province",
+                                "ExProvince": "NB",
+                                "ExProvinceDesc": "New Brunswick",
+                                "ExProvinceName": "New Brunswick"
+                            },
+                            "ExPostalCd": "34556",
+                            "ExCountry": {
+                                "rowidObject": "1             ",
+                                "label": "Lookup Country",
+                                "cntryCd": "CAN",
+                                "cntryDesc": "Canada",
+                                "ExCntryName": "Canada"
+                            },
+                            "ExSiteNm": "Suncor Energy",
+                            "ExFloorNum": "56",
+                            "ExRoomNumber": "A1001",
+                            "ExLocationId": "345",
+                            "ExSiteDesc": "Suncor Energy Limited",
+                            "ExLocation_rowidObject": "1             ",
+                            "ExLocation_ExAddress_rowidObject": "3             "
+                        }
+                    ]
+                },
+                "ExOrganization": {
+                    "link": [],
+                    "firstRecord": 1,
+                    "pageSize": 10,
+                    "searchToken": "multi",
+                    "item": [
+                        {
+                            "rowidObject": "40003         ",
+                            "label": "Related Org",
+                            "ExOrganizationRefId": "6789",
+                            "ExOrganizatinNm": "Second Org",
+                            "ExLastEffctvChngDt": "2020-06-05",
+                            "ExOrganizationCd": "O2",
+                            "ExOrganizationStatus": {
+                                "rowidObject": "1             ",
+                                "label": "Lookup Org Sts Typ",
+                                "ExOrgStsTypDesc": "ACTIVE",
+                                "ExOrgStsTypNm": "ACTIVE",
+                                "ExOrgStsTypCd": "ACTIVE"
+                            },
+                            "ExOrganizationTyp": {
+                                "rowidObject": "20001         ",
+                                "label": "Lookup Org Type",
+                                "ExOrgTypCd": "SUP",
+                                "ExOrgTypNm": "Supervisory",
+                                "ExOrgTypDesc": "Supervisory Organization from Workday"
+                            },
+                            "ExOrganizationSubTyp": {
+                                "rowidObject": "1             ",
+                                "label": "Lookup Org Sub Typ",
+                                "ExOrgSubTypDesc": "Energy Industry",
+                                "ExOrgSubTypNm": "Energy Industry",
+                                "ExOrgSubTypCd": "Energy Industry"
+                            },
+                            "ExOrganizationStartDt": "2020-05-05",
+                            "ExSupervisoryOrgNm": "(RS)(Mtce Srvcs) NPA BP Ops",
+                            "ExOrganizationMgr": "568282552",
+                            "ExOrganizationManagerName": "SMITH K BROWN",
+                            "ExOrgDetails_ExOrg_1_rowidObject": "2             ",
+                            "ExOrgDetails_rowidObject": "20002         ",
+                            "ExOrgDetails_ExManagerDetails_1_rowidObject": "40007         ",
+                            "ExOrgDetails_ExSupervisoryOrg_1_ExSupervisoryOrgDetails_rowidObject": "60001         ",
+                            "ExOrgDetails_ExSupervisoryOrg_1_rowidObject": "40006         ",
+                            "ExOrgDetails_ExManagerDetails_1_ExManager_rowidObject": "2             ",
+                            "ExOrgDetails_ExManagerDetails_1_ExManager_ExWorker_1_rowidObject": "20002         ",
+                            "ExOrgDetails_ExSupervisoryOrg_1_ExSupervisoryOrgDetails_ExSupervisoryOrgDetails_1_rowidObject": "3             "
+                        }
+                    ]
+                },
+                "ExJob": {
+                    "link": [],
+                    "firstRecord": 1,
+                    "pageSize": 10,
+                    "searchToken": "multi",
+                    "item": [
+                        {
+                            "rowidObject": "1             ",
+                            "label": "Party Employment Job",
+                            "ExJobPrflId": "123",
+                            "ExJobCd": "DA_2",
+                            "ExJobTitle": "Data Analyst",
+                            "ExJobSts": {
+                                "rowidObject": "1             ",
+                                "label": "Lookup RDO Sts Type",
+                                "ExRDOStsCd": "ACT"
+                            },
+                            "ExJobFamilyId": "123445",
+                            "ExJobFamilyNm": "Technology",
+                            "ExJobFamilySts": "ACT",
+                            "ExManagementLevel": {
+                                "rowidObject": "2             ",
+                                "label": "LookupMgmntLevel",
+                                "ExManagementLevelName": "Medium",
+                                "ExMgmntLevelCd": "MED"
+                            },
+                            "ExJobFamilyGroup": {
+                                "rowidObject": "1             ",
+                                "label": "LookupFamilyGroup",
+                                "ExJobFamilyGroupCd": "PER",
+                                "ExJobFamilyGroupName": "Personal",
+                                "ExJobFamilyGroupDesc": "Personal"
+                            },
+                            "ExPosition_rowidObject": "1             ",
+                            "ExPosition_ExJobPofile_ExJobFamily_rowidObject": "2             ",
+                            "ExPosition_ExJobPofile_rowidObject": "2             "
+                        }
+                    ]
+                },
+                "ExPosition": {
+                    "link": [],
+                    "firstRecord": 1,
+                    "pageSize": 1,
+                    "searchToken": "multi",
+                    "item": [
+                        {
+                            "rowidObject": "1             ",
+                            "label": "Party Employment Position",
+                            "ExPositionId": "677",
+                            "ExPositionTitle": "Position1",
+                            "ExPositionSts": {
+                                "rowidObject": "1             ",
+                                "label": "Lookup RDO Sts Type",
+                                "ExRDOStsCd": "ACT"
+                            },
+                            "ExPositionStartDt": "2020-08-13",
+                            "ExPositionTimeTyp": {
+                                "rowidObject": "1             ",
+                                "label": "LookupPositionTimeType",
+                                "ExPositionTimeTypeCd": "EST"
+                            },
+                            "ExPositionWrkrTyp": {
+                                "rowidObject": "1             ",
+                                "label": "Lookup Worker Type",
+                                "ExWorkerTypName": "Employee",
+                                "ExWorkerTypCd": "EMP",
+                                "ExWorkerTypDesc": "Suncor Employee"
+                            },
+                            "ExCompanyCode": {
+                                "rowidObject": "1             ",
+                                "label": "Lookup Company Code",
+                                "ExCompanyDesc": "Suncor Energy Inc.",
+                                "ExCompanyCd": "Suncor Energy Inc.",
+                                "ExCompanyName": "Suncor Energy Inc."
+                            },
+                            "ExCostCenterCd": "AB",
+                            "ExCostCenterNm": "AB Suncor Centre",
+                            "ExPositionEmplymntType": {
+                                "rowidObject": "8             ",
+                                "label": "Lookup Employment Type",
+                                "emplymntTypCd": "PROFILE",
+                                "ExEmploymentTypeDesc": "Profile Workers who need site access temporarily for meetings, presentations etc",
+                                "ExEmploymentTypeName": "Profile Workers"
+                            },
+                            "ExBusinessSite": "345",
+                            "ExBusinessSiteCity": "Surrey",
+                            "ExBusinessSiteCountry": {
+                                "rowidObject": "1             ",
+                                "label": "Lookup Country",
+                                "cntryCd": "CAN",
+                                "cntryDesc": "Canada",
+                                "ExCntryName": "Canada"
+                            },
+                            "ExBusinessSiteName": "Commerce City",
+                            "ExBusinessSitePostalCd": "34556",
+                            "ExBusinessSiteRegion": {
+                                "rowidObject": "4             ",
+                                "label": "Lookup Province",
+                                "ExProvince": "NB",
+                                "ExProvinceDesc": "New Brunswick",
+                                "ExProvinceName": "New Brunswick"
+                            },
+                            "ExJobGroupName": {
+                                "rowidObject": "1             ",
+                                "label": "LookupFamilyGroup",
+                                "ExJobFamilyGroupCd": "PER",
+                                "ExJobFamilyGroupName": "Personal",
+                                "ExJobFamilyGroupDesc": "Personal"
+                            },
+                            "ExJobManagementLevel": {
+                                "rowidObject": "2             ",
+                                "label": "LookupMgmntLevel",
+                                "ExManagementLevelName": "Medium",
+                                "ExMgmntLevelCd": "MED"
+                            },
+                            "ExJobName": "Data Analyst",
+                            "ExPayRateType": {
+                                "rowidObject": "1             ",
+                                "label": "Lookup Pay Rate Type",
+                                "ExPayRateTypName": "1926/hr",
+                                "ExPayRateTypCd": "1926/hr"
+                            },
+                            "ExScheduledWeeklyHours": {
+                                "rowidObject": "1             ",
+                                "label": "Lookup Scheduled Weekly Hours",
+                                "ExScheduledWeeklyHoursName": "Daily",
+                                "ExScheduledWeeklyHoursCd": "Daily"
+                            },
+                            "ExOrganizationName": "Second Org",
+                            "ExSuperVisoryOrgName": "(RS)(Mtce Srvcs) NPA BP Ops",
+                            "ExSuperVisoryOrgCode": "NPA",
+                            "ExPosition_rowidObject": "1             ",
+                            "ExParty_ExRelatedOrg_1_ExOrgNm_rowidObject": "20002         ",
+                            "ExPosition_ExJobProfile_rowidObject": "2             ",
+                            "ExPosition_ExLocation_ExAddress_rowidObject": "3             ",
+                            "ExParty_ExRelatedOrg_1_ExOrgNm_ExSuperiorOrg_1_ExSupervisoryOrgDetails_ExSuperorgDEtails_1_rowidObject": "3             ",
+                            "ExPosition_ExLocation_rowidObject": "1             ",
+                            "ExParty_rowidObject": "40002         ",
+                            "ExParty_ExRelatedOrg_1_rowidObject": "40003         ",
+                            "ExPosition_ExJobProfile_ExJobFamily_rowidObject": "2             ",
+                            "ExParty_ExRelatedOrg_1_ExOrgNm_ExSuperiorOrg_1_rowidObject": "40006         ",
+                            "ExParty_ExPartyEmployment_1_rowidObject": "1             ",
+                            "ExParty_ExRelatedOrg_1_ExOrgNm_ExSuperiorOrg_1_ExSupervisoryOrgDetails_rowidObject": "60001         "
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
